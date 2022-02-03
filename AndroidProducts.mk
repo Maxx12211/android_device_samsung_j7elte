@@ -18,6 +18,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_PATH)/lineage_j7elte.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_j7elte-user \
-    havoc_j7elte-userdebug \
-    havoc_j7elte-eng
+    Lineage_j7elte-user \
+    Lineage_j7elte-userdebug \
+    Lineage_j7elte-eng
