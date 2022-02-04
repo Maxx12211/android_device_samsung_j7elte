@@ -23,7 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_l_mr1.mk
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := nusantara_j7elte
+PRODUCT_NAME := nad_j7elte
 PRODUCT_DEVICE := j7elte
 PRODUCT_MODEL := SM-J700F
 PRODUCT_BRAND := samsung
