@@ -18,6 +18,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_PATH)/havoc_j7elte.mk
 
 COMMON_LUNCH_CHOICES := \
-    nusantara_j7elte-user \
-    nusantara_j7elte-userdebug \
-    nusantara_j7elte-eng
+    nad_j7elte-user \
+    nad_j7elte-userdebug \
+    nad_j7elte-eng
