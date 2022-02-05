@@ -15,7 +15,7 @@
 LOCAL_PATH := device/samsung/j7elte
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_PATH)/havoc_j7elte.mk
+    $(LOCAL_PATH)/nad_j7elte.mk
 
 COMMON_LUNCH_CHOICES := \
     nad_j7elte-user \
