@@ -21,6 +21,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_l_mr1.mk
 
 # Inherit common Lineage phone.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+WITH_GMS_MINIMAL := true
 
 # Set those variables here to overwrite the inherited values.
 PRODUCT_NAME := lineage_j7elte
