@@ -18,6 +18,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_PATH)/superior_j7elte.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_j7elte-user \
-    superior_j7elte-userdebug \
-    superior_j7elte-eng
+    lineage_j7elte-user \
+    lineage_j7elte-userdebug \
+    lineage_j7elte-eng
