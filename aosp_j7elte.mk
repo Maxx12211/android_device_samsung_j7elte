@@ -23,7 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_l_mr1.mk
 $(call inherit-product, vendor/superior/config/common.mk)
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := superior_j7elte
+PRODUCT_NAME := aosp_j7elte
 PRODUCT_DEVICE := j7elte
 PRODUCT_MODEL := SM-J700F
 PRODUCT_BRAND := samsung
