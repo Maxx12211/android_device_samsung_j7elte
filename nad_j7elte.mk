@@ -24,7 +24,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 WITH_GMS_MINIMAL := true
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := lineage_j7elte
+PRODUCT_NAME := nad_j7elte
 PRODUCT_DEVICE := j7elte
 PRODUCT_MODEL := SM-J700F
 PRODUCT_BRAND := samsung
