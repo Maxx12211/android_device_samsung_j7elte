@@ -15,9 +15,9 @@
 LOCAL_PATH := device/samsung/j7elte
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_PATH)/nad_j7elte.mk
+    $(LOCAL_PATH)/aosip_j7elte.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_j7elte-user \
-    aosp_j7elte-userdebug \
-    aosp_j7elte-eng
+    aosip_j7elte-user \
+    aosip_j7elte-userdebug \
+    aosip_j7elte-eng
