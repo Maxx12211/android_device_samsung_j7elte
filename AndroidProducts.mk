@@ -18,6 +18,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_PATH)/nad_j7elte.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_j7elte-user \
-    nad_j7elte-userdebug \
-    nad_j7elte-eng
+    aosp_j7elte-user \
+    aosp_j7elte-userdebug \
+    aosp_j7elte-eng
